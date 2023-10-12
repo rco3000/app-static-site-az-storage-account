@@ -1,4 +1,4 @@
-name: Terraform Pipeline az
+name: Terraform Pipeline az2
 
 on:
   push:
