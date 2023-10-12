@@ -1,4 +1,4 @@
 variable "stracctstaticsite" {
     type    = string
-    default = "mystaticsitekb"
+    default = "ricardolima1985"
 }
